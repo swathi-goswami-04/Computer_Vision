@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Data and Artifacts (Optional, but recommended for large data or logs)
+/data/
+/logs/
+*.zip
+*.tar
+# Ignore the model artifact if it's over 100MB (yours should be fine, but good practice)
+# *.pt
