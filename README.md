@@ -4,7 +4,7 @@
 
 | Component | Description | Status |
 | :--- | :--- | :--- |
-| **Live Application** | [Link to your Hugging Face Space/Streamlit Cloud URL] | **LIVE URL** |
+| **Live Application** | [Link to your Hugging Face Space/Streamlit Cloud URL] | **[LIVE URL](https://huggingface.co/spaces/Swathi04/Casting-Defect-QC-MobileNetV2)** |
 | **Model Artifact** | `final_best_model.pt` | Saved |
 | **Code Structure** | `app.py`, `inference_handler.py` | Complete |
 
